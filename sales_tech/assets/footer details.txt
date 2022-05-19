@@ -17,3 +17,8 @@ Service Parts
 
 
 Follow Us
+        <li>Facebook</li>
+        <li>Google Plus</li>
+        <li>Instagram</li>
+        <li>Twitter</li>
+        <li>YouTube</li>

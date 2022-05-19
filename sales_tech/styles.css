@@ -1,3 +1,10 @@
 #navbar_logo {
     height: 40px;
 }
+.col {
+    border: solid black 1px;
+}
+html {
+    background-image: url(images/system/circuitboard_seamless.png);
+    background-repeat: repeat-x; 
+  }
