@@ -6,5 +6,5 @@
 }
 html {
     background-image: url(images/system/circuitboard_seamless.png);
-    background-repeat: repeat-x; 
+    background-repeat: tile
   }
